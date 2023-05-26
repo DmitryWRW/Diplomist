@@ -1,0 +1,182 @@
+.aboutWrapper {
+  background: #f5f5f5;
+}
+.aboutNum {
+  margin-bottom: 15px;
+}
+.wrapper {
+  width: 1170px;
+  margin: 0 auto;
+}
+.licenseWrapper {
+  display: flex;
+  margin-top: 105px;
+  justify-content: flex-end;
+  padding-bottom: 160px;
+}
+.licenseWrapper p {
+  color: #353a5a;
+  width: 622px;
+  height: 48px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+}
+.licenseImgLink {
+  margin-right: 35px;
+}
+.descContent {
+  display: flex;
+  justify-content: space-between;
+}
+.title p {
+  margin-bottom: 25px;
+  color: #353a5a;
+  width: 388px;
+  height: 80px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+}
+.subTitle p {
+  color: #353a5a;
+  width: 500px;
+  height: 144px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+}
+.descButton {
+  width: 230px;
+  height: 56px;
+  background: #1740c7;
+  border-radius: 0px 20px;
+  margin-bottom: 130px;
+  border: none;
+}
+.inputWrapper {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  background: #1740c7;
+}
+.inputContent {
+  display: flex;
+  justify-content: space-between;
+}
+.inputTitle {
+  width: 431.25px;
+  height: 35px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.nameInput {
+  width: 191.25px;
+  height: 40px;
+  text-align: center;
+}
+.phoneInput {
+  text-align: center;
+  height: 40px;
+  width: 191.25px;
+}
+.inputButton {
+  width: 230px;
+  height: 56px;
+  background: #fa9f42;
+  border-radius: 0px 20px;
+  border: none;
+}
+.benefitsContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.benefitsText {
+  display: flex;
+  flex-direction: column;
+}
+.benefitsTitle p {
+  width: 318px;
+  height: 80px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  font-feature-settings: "pnum" on, "lnum" on;
+  color: #353a5a;
+}
+.benefitsSubTitle p {
+  width: 500px;
+  height: 144px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #353a5a;
+}
+.benefitsButton {
+  width: 230px;
+  height: 56px;
+  background: #1740c7;
+  border-radius: 0px 20px;
+  margin-bottom: 180px;
+  border: none;
+}
+.benefitsTitle {
+  margin-top: 210px;
+}
+.benefitsSubTitle {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.benefitsImg {
+  display: grid;
+  grid-template-columns: repeat(3, 170px);
+  grid-template-rows: repeat(2, 170px);
+  gap: 50px;
+}
+.directionText {
+  color: #353a5a;
+  text-align: center;
+}
+.benefitsLine {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 120px;
+}
+.benefitsItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.benefitsItem img {
+  width: 102px;
+  height: 102px;
+}
+.benefitsItem p {
+  color: #353a5a;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+}

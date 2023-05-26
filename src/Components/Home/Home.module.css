@@ -1,0 +1,120 @@
+.wrapper {
+  width: 1170px;
+  margin: 0 auto;
+}
+.main {
+  background: #1740c7;
+  padding-top: 127px;
+}
+.main_content {
+  display: flex;
+  justify-content: space-between;
+}
+.main_icons_and_img {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 126px;
+  width: 22px;
+  border-radius: 0px;
+}
+.icons {
+  margin-bottom: 105px;
+  display: flex;
+  flex-direction: column;
+}
+.home_icon {
+  margin-bottom: 30px;
+}
+.left_img_container {
+  margin-left: 1.87rem;
+  position: relative;
+  width: 15rem;
+  height: 18.75rem;
+  border-radius: 0 5em 0 0;
+  border: 2px dashed #fa9f42;
+}
+.left_img {
+  position: absolute;
+  left: -1.87rem;
+  top: 1.87rem;
+  width: 15rem;
+  height: 18.75rem;
+  border-radius: 0px 80px 0px 0px;
+}
+.main_text_and_button {
+  margin-top: 155px;
+  text-align: center;
+  margin-left: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 180px;
+}
+.main_text1 {
+  width: 605px;
+  height: 116px;
+  left: 405px;
+  top: 345px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 120%;
+  text-align: center;
+  margin-bottom: 45px;
+}
+.main_text2 {
+  width: 378px;
+  height: 48px;
+  left: 531px;
+  top: 505px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.main_button {
+  width: 230px;
+  height: 56px;
+  left: 605px;
+  top: 603px;
+  background: #fa9f42;
+  border-radius: 0px 20px;
+  border: none;
+}
+.right_img_container {
+  margin-right: 1.87rem;
+  position: relative;
+  width: 15rem;
+  height: 18.75rem;
+  border-radius: 5em 0 0 0;
+  border: 2px dashed #fa9f42;
+}
+.right_img {
+  position: absolute;
+  right: -1.87rem;
+  top: 1.87rem;
+  width: 15rem;
+  height: 18.75rem;
+  border-radius: 5rem 0 0 0;
+}
+
+.main_text {
+  margin-top: 130px;
+}
+.text_container {
+  float: right;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: #fdfdfd;
+  transform: rotate(-90deg);
+  margin-top: 170px;
+}
